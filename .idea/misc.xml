@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/drawable-anydpi/ic_action_person.xml" value="0.126" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/drawable-anydpi/ic_fav.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/drawable-anydpi/ic_profile.xml" value="0.126" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/drawable/ic_fav.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout-v21/activity_res_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_cart_page.xml" value="0.11302083333333333" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_forgot_password.xml" value="0.15208333333333332" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_forgot_password_info.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_login.xml" value="0.15208333333333332" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_login_info.xml" value="0.15208333333333332" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_register.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_register_info.xml" value="0.16770833333333332" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_res_details.xml" value="0.16770833333333332" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_reset_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_sign_up_info.xml" value="0.15208333333333332" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/activity_splash.xml" value="0.14666666666666667" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/drawer_header.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/fragment_faq.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/fragment_favourites.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/fragment_orders.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/fragment_profile.xml" value="0.16203703703703703" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_cart_single_row.xml" value="0.14666666666666667" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_faq_single_row.xml" value="0.11851851851851852" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_fav_single_row.xml" value="0.32653061224489793" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_home_single_row.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_orders_single_row.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_res_details_single_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/layout/recycler_single_order_single_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/menu/items.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/menu/menu_restaurant_sort.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudio/FoodRunner2/app/src/main/res/xml/network_secutity_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

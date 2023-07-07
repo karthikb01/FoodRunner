@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/restaurant_sort_asc"
+        android:checkable="false"
+        android:icon="@drawable/ic_sort_asc"
+        android:orderInCategory="100"
+        android:title="@string/sort_ascending"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/restaurant_sort_desc"
+        android:checkable="false"
+        android:icon="@drawable/ic_sort_asc"
+        android:orderInCategory="99"
+        android:title="@string/sort_descending"
+        android:visible="true" />
+
+
+    <item
+        android:id="@+id/restaurant_sort_rating"
+        android:checkable="false"
+        android:checked="false"
+        android:icon="@drawable/ic_sort_asc"
+        android:orderInCategory="98"
+        android:title="@string/sort_by_rating"
+        android:visible="true" />
+
+</menu>

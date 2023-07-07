@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange_primary"
+    android:orientation="vertical"
+    tools:context=".activity.RegisterActivity">
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_action_person"
+        android:drawablePadding="6dp"
+        android:hint="@string/enter_your_name_min_3_characters"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_action_email"
+        android:drawablePadding="6dp"
+        android:hint="@string/email_address"
+        android:inputType="textEmailAddress"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etMobileNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_action_mobile"
+        android:drawablePadding="6dp"
+        android:hint="@string/mobile_number_10_digits"
+        android:inputType="number"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etDeliverAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_action_location"
+        android:drawablePadding="6dp"
+        android:hint="@string/deliveraddress"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_action_password"
+        android:drawablePadding="6dp"
+        android:hint="@string/choose_a_password_min_4_characters"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etConfirmPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_action_password"
+        android:drawablePadding="6dp"
+        android:hint="@string/confirm_password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:text="@string/register"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+</LinearLayout>
